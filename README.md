@@ -37,4 +37,5 @@ Goal - I want contributors to help me list some keyboards you are using or favor
 - NuPhy Halo75
 - Keychron
 - hhkb
-- Logicool K295GP 
+- Logicool K295GP
+- FILCO Majestouch MINILA-R
