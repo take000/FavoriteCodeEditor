@@ -25,5 +25,6 @@ My favorite code editor is Visual Studio Code with the Neovim extension.
 - vi
 - sakura editor
 - Vim
+- Visual Studio Code
 - neovim
 - BzEditor
