@@ -30,3 +30,4 @@ My favorite code editor is Visual Studio Code with the Neovim extension.
 - neovim
 - BzEditor
 - Cursor
+- GNU nano
